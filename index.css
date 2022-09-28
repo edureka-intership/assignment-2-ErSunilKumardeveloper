@@ -1,0 +1,26 @@
+
+body{background-color: #9ab2cb;}
+
+
+.footercontent {
+
+margin-bottom: 10px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color:black;
+font-size: 14px;
+margin-left: 26%;
+}
+
+.copy{
+ margin-left: 41%;
+ font-size:17px ;
+}
+.footercontent>span>b,
+u {
+color:rgb(26, 6, 252);
+font-size: 15px;
+font-weight: 600;
+}
