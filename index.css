@@ -1,10 +1,7 @@
 
-body{background-color: #9ab2cb;}
-
-
 .footercontent {
 
-margin-bottom: 10px;
+margin-bottom: 50px;
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -15,12 +12,11 @@ margin-left: 26%;
 }
 
 .copy{
- margin-left: 41%;
+ margin-left: 44%;
  font-size:17px ;
 }
-.footercontent>span>b,
+.footercontent>h6,
 u {
-color:rgb(26, 6, 252);
-font-size: 15px;
+color:blue;
 font-weight: 600;
 }
